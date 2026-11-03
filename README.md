@@ -1,84 +1,118 @@
 <div align="center">
 
-# 👋 Hello, I'm Kaveesha Sithum!
+# 👋 Hi, I'm Kaveesha Sithum!
 
-### 💻 Java Developer | ICET Student | Sri Lanka 🇱🇰
+### 💻 Java Developer | Software Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Developer+in+Progress;Learning+%26+Building+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Java+Developer+%F0%9F%9A%80;Learning+Software+Development;Building+My+Future+with+Code!" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaveesha-sithum-nimsara-weththasinhe-83aa96414/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/kaveesithum)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:kaveesithum200604@gmail.com)
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kaveeshasithum\&color=blueviolet\&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Studying at **ICET**
-- 🏫 School: **Seethawaka Central College**
-- ☕ Main programming language: **Java**
-- 🌱 Learning and improving my development skills
-- 🎯 Interested in building useful applications and creative projects
+* 👨‍💻 My name is **Kaveesha Sithum Nimsara Weththasinhe**
+* 🎓 Studying at **iCET**
+* 🏫 School: Seethawaka Central College
+* 💻 Interested in Software Development
+* ☕ Currently learning Java and Object-Oriented Programming
+* 🌱 Improving my programming skills every day
+* 🎯 Goal: Become a Professional Software Engineer
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" alt="Tech Stack" />
-</div>
-
-## 🚀 Projects
-
-- 🌦️ **Sri Lanka Weather Website** — Location selection with animated weather visuals.
-- 🌐 **Personal Portfolio Website** — A responsive portfolio showcasing my skills and projects.
-- 💡 More projects coming soon!
-
-## 📊 GitHub Stats
+## 💻 Languages & Technologies
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaveesithum&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesithum&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top languages" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=kaveesithum&theme=dracula&hide_border=true" alt="GitHub streak" />
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,idea" />
+
 </div>
 
-## 🟡 Pac-Man Contribution Graph
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaveesithum/kaveesithum/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaveesithum/kaveesithum/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kaveesithum/kaveesithum/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+## 🛠️ My Skills
 
-## 🐍 Snake Contribution Animation
+| Technology      | Skills              |
+| --------------- | ------------------- |
+| ☕ Java          | OOP, Swing, JDBC    |
+| 🌐 HTML         | Web Development     |
+| 🎨 CSS          | Web Designing       |
+| ⚡ JavaScript    | Basic Programming   |
+| 🗄️ MySQL       | Database Management |
+| 🔧 Git & GitHub | Version Control     |
 
-<img src="https://raw.githubusercontent.com/kaveesithum/kaveesithum/snake-output/snake.svg" alt="Snake animation" />
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kaveeshasithum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshasithum&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kaveeshasithum&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kaveeshasithum/kaveeshasithum/output/snake.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
+## 👾 Pacman Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kaveeshasithum/kaveeshasithum/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
+
+<a href="https://github.com/kaveeshasithum">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/kaveesha-sithum-nimsara-weththasinhe-83aa96414/">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
-<a href="mailto:kaveesithum200604@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="45" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/kaveesithum">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
-</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💬 “Keep learning, keep building, keep growing.”
+### 💙 Thanks for Visiting My Profile!
 
-<img src="https://komarev.com/ghpvc/?username=kaveesithum&style=for-the-badge&color=00D9FF" alt="Profile views" />
+**"Code. Learn. Build. Repeat."** 🚀
 
-⭐ **Thanks for visiting my profile!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
