@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 HOLLO ! I'M KAVEESHA SITHUM
+# 👋 HELLO ! I'M KAVEESHA SITHUM
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+Developer+%F0%9F%92%BB;Web+Development+Learner+%F0%9F%8C%90;Welcome+to+my+GitHub+Profile+%E2%9C%A8" alt="Typing SVG" />
 
