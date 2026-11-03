@@ -1,87 +1,84 @@
 <div align="center">
 
-# 👋 HOLA! I'M KAVEESHA SITHUM
+# 👋 Hello, I'm Kaveesha Sithum!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+Developer+%F0%9F%92%BB;Web+Development+Learner+%F0%9F%8C%90;Welcome+to+my+GitHub+Profile+%E2%9C%A8" alt="Typing SVG" />
+### 💻 Java Developer | ICET Student | Sri Lanka 🇱🇰
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:00D9FF&height=160&section=header&text=KAVEESHA%20SITHUM&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Developer+in+Progress;Learning+%26+Building+Projects" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaveesha-sithum-nimsara-weththasinhe-83aa96414/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/kaveesithum)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:kaveesithum200604@gmail.com)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🧑‍💻 About Me
 
 - 🎓 Studying at **ICET**
 - 🏫 School: **Seethawaka Central College**
-- 💻 Main programming language: **Java**
-- 🌱 Currently learning and improving my programming skills
-- 🌐 Interested in Web Development and Software Development
-- 🚀 Building projects and learning something new every day
-- 📫 Email: **kaveesithum200604@gmail.com**
+- ☕ Main programming language: **Java**
+- 🌱 Learning and improving my development skills
+- 🎯 Interested in building useful applications and creative projects
 
----
+## 🛠️ Tech Stack
 
-## 🌐 Connect With Me
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" alt="Tech Stack" />
+</div>
 
-<p align="left">
-  <a href="https://github.com/kaveeshasithum">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kaveesha-sithum-nimsara-weththasinhe-83aa96414/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kaveesithum200604@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+## 🚀 Projects
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" alt="Skills"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
----
+- 🌦️ **Sri Lanka Weather Website** — Location selection with animated weather visuals.
+- 🌐 **Personal Portfolio Website** — A responsive portfolio showcasing my skills and projects.
+- 💡 More projects coming soon!
 
 ## 📊 GitHub Stats
 
 <div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaveesithum&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesithum&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top languages" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=kaveesithum&theme=dracula&hide_border=true" alt="GitHub streak" />
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaveesithum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+## 🟡 Pac-Man Contribution Graph
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesithum&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaveesithum/kaveesithum/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaveesithum/kaveesithum/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kaveesithum/kaveesithum/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaveesithum&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+## 🐍 Snake Contribution Animation
 
+<img src="https://raw.githubusercontent.com/kaveesithum/kaveesithum/snake-output/snake.svg" alt="Snake animation" />
+
+## 🌐 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/kaveesha-sithum-nimsara-weththasinhe-83aa96414/">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:kaveesithum200604@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="45" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/kaveesithum">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
+</a>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kaveesithum/kaveesithum/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-
----
-
 <div align="center">
 
-### ✨ Thanks for visiting my profile! ✨
+### 💬 “Keep learning, keep building, keep growing.”
 
-<img src="https://komarev.com/ghpvc/?username=kaveesithum&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=kaveesithum&style=for-the-badge&color=00D9FF" alt="Profile views" />
 
-**💙 Keep Learning • Keep Coding • Keep Growing 💙**
+⭐ **Thanks for visiting my profile!**
 
 </div>
