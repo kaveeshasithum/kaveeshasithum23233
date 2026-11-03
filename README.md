@@ -1,150 +1,94 @@
+<!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-# 👋 Hello World! I'm Kaveesha Sithum
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=%3C%2F%3E+KAVEESITHUM" alt="KAVEESITHUM" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Kaveesha+Sithum;Java+Developer;Software+Engineering+Student;Welcome+To+My+GitHub+Profile!" />
-
-### 💻 Software Engineering Student | Java Developer
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/kaveeshasithum)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/kaveesha-sithum-nimsara-weththasinhe-83aa96414/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=500&lines=Dream+%E2%80%A2+Code+%E2%80%A2+Build" alt="Dream Code Build" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-* 👋 Hi, I'm **Kaveesha Sithum Nimsara Weththasinhe**.
-* 🎓 Software Engineering Student at **iCET**.
-* 🏫 Studied at **Seethawaka Central College**.
-* 💻 Main Programming Language: **Java**.
-* 🌱 Currently learning Software Development.
-* 🚀 Interested in Java Programming, OOP and Web Development.
-* 🎯 My goal is to become a Professional Software Engineer.
-
----
-
-## 🛠️ Technologies & Tools
-
+<!-- ============ PROFILE + INTRO ============ -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,idea" />
+<img src="https://github.com/kaveesithum.png" width="180" style="border-radius:50%; border:4px solid #00E5FF;" alt="Kaveesha Sithum Nimsara Weththasinhe" />
+
+# 👋 Hi, I'm **Kaveesha Sithum Nimsara**
+
+### *Aspiring Software Developer*
+
+**Kaveesha Sithum Nimsara Weththasinhe** · `kaveesithum`
 
 </div>
 
 ---
 
-## 💡 My Skills
+## 📌 Quick Info
+
+- 🎓 IT Student at **ICET**
+- ☕ **Java & SQL** Learner
+- 🚀 Aspiring Software Developer
+- 🌱 Always Learning & Building
+- 🇱🇰 Sri Lanka
+
+---
+
+## 👤 About Me
+
+I'm an IT student, deeply interested in **Java** programming, database systems and modern web technologies.
+I'm always eager to learn new things and turn ideas into reality.
+
+---
+
+## 🛠️ Technologies & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-|    Technology   | Skills                                   |
-| :-------------: | :--------------------------------------- |
-|      ☕ Java     | Object-Oriented Programming, Swing, JDBC |
-|     🌐 HTML     | Web Page Development                     |
-|      🎨 CSS     | Web Designing                            |
-|   ⚡ JavaScript  | Frontend Programming                     |
-|    🗄️ MySQL    | Database Management                      |
-| 🔧 Git & GitHub | Version Control                          |
-
-</div>
-
----
-
-## 🚀 My Projects
-
-* 🎓 **Student Management System** – Java Swing, MySQL / File Handling
-* 💧 **Water Level Observer** – Java Observer Design Pattern
-* 💬 **SMS Chat Application** – Java Swing
-* 🧮 **Calculator Application** – HTML, CSS & JavaScript
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kaveeshasithum&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshasithum&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kaveeshasithum&theme=dracula&hide_border=false" />
-
-</div>
-
----
-
-## 👾 Pacman Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaveeshasithum/kaveeshasithum/output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaveeshasithum/kaveeshasithum/output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kaveeshasithum/kaveeshasithum/output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-</div>
-
----
-
-## 🐍 Snake Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kaveeshasithum/kaveeshasithum/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-
-<a href="https://github.com/kaveeshasithum">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
-</a>
-
-<a href="https://www.linkedin.com/in/kaveesha-sithum-nimsara-weththasinhe-83aa96414/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-</a>
-
-</div>
-
----
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kaveeshasithum.kaveeshasithum&" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks For Visiting My Profile!
-
-### Code • Learn • Practice • Repeat 🚀
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Never+Stop+Learning!;Keep+Coding!;Keep+Growing!" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kaveesithum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesithum&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaveesithum&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/kaveesithum">
+    <img src="https://img.shields.io/badge/GitHub-kaveesithum-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/kaveesha-sithum-nimsara-wettthasinhe">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaveesha%20Sithum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting+My+Profile!;Keep+Learning+%E2%80%A2+Keep+Building" alt="Thanks for visiting" />
+
+<img src="https://komarev.com/ghpvc/?username=kaveesithum&color=00E5FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
