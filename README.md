@@ -1,81 +1,118 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There!+%F0%9F%91%8B;I'm+Kaveesha+Sithum;Java+Developer+%7C+Student;Welcome+To+My+GitHub+Profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kaveesha+Sithum;Aspiring+Software+Developer;Java+%26+SQL+Learner;Dream+%E2%80%A2+Code+%E2%80%A2+Build"/>
 
-<h3>💻 Passionate Java Developer | 🌱 Lifelong Learner</h3>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+
+<img src="https://github.com/kaveesithum.png" width="220"/>
+
+# Kaveesha Sithum Nimsara Weththasinhe
+
+`kaveesithum`
+
+🎓 IT Student at ICET
+
+☕ Java & SQL Learner
+
+🚀 Aspiring Software Developer
+
+🌱 Always Learning & Building
+
+🇱🇰 Sri Lanka
+
+---
+
+<img src="https://img.shields.io/badge/DREAM-CODE-BUILD-00D9FF?style=for-the-badge"/>
+
+</td>
+
+<td width="70%" valign="top">
+
+<div align="center">
+
+# 👋 Hi, I'm
+
+# Kaveesha Sithum Nimsara
+
+### 💻 Aspiring Software Developer
 
 </div>
 
 ## 👨‍💻 About Me
 
-* 👋 Hi, I'm **Kaveesha Sithum Nimsara Weththasinhe**
-* 🎓 Student at **iCET**
-* 🏫 Studied at **Seethawaka Central College**
-* 💻 Interested in Software Development
-* ☕ Currently learning Java & OOP
-* 🚀 Building projects and improving my coding skills.
+I'm an IT student, deeply interested in Java programming, database systems and modern web technologies.
 
-## 🛠️ Languages & Technologies
+I'm always eager to learn new things and turn ideas into reality.
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,idea" />
-
-</div>
-
-## 📚 Currently Learning
-
-* Java Programming
-* Object Oriented Programming (OOP)
-* Java Swing
-* Database Management System
-* Web Development
-
-## 🚀 My Projects
-
-* 🎓 Student Management System
-* 🧮 Calculator Application
-* 💧 Water Level Observer System
-* 💬 SMS Chat Application
-
-## 📊 GitHub Statistics
+## 🧑‍💻 ASCII Developer Portrait
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaveeshasithum&show_icons=true&theme=tokyonight&hide_border=true"/>
+```text
+             .-""""""""-.
+           .'  _      _  '.
+          /   (o)    (o)   \
+         |        /\        |
+         |       /  \       |
+          \     |____|     /
+           '.            .'
+             '-.______.-'
+                |    |
+          .-----|    |-----.
+         /      |    |      \
+        /       |    |       \
+       |       /      \       |
+       |      /        \      |
+       |_____/          \_____|
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshasithum&layout=compact&theme=tokyonight&hide_border=true"/>
+       KAVEESITHUM // DEV
+```
 
 </div>
 
-## 🔥 GitHub Streak
+---
+
+## 🛠️ Technologies & Skills
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kaveeshasithum&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode"/>
 
 </div>
 
-## 🐍 Contribution Snake
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kaveeshasithum/kaveeshasithum/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaveesithum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesithum&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=kaveesithum&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
+
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/kaveeshasithum">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/kaveesithum">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kaveesha-sithum-nimsara-weththasinhe-83aa96414/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 
 </div>
@@ -84,10 +121,13 @@
 
 <div align="center">
 
-### 💙 Thanks for Visiting My Profile!
+<img src="https://komarev.com/ghpvc/?username=kaveesithum&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code+%7C+Learn+%7C+Build+%7C+Repeat;Keep+Learning+Keep+Growing!" />
+### 💙 Dream • Code • Build
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting+My+Profile!;Keep+Learning+%26+Keep+Building!"/>
 
 </div>
+</td>
+</tr>
+</table>
